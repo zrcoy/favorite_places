@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["riverpod"]
+  "cSpell.words": ["riverpod"],
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
